@@ -1,6 +1,6 @@
 # 🐛 Worm-AI CLI — GrokApi Edition
 
-**Worm-AI CLI** is a sleek command-line interface (CLI) for interacting with Grok models through an **unofficial reverse-engineered API wrapper** from [@realasfngl](https://github.com/realasfngl/Grok-Api).
+**Worm-AI CLI** is a sleek command-line interface (CLI) for interacting with Grok models through an **unofficial reverse-engineered API wrapper**.
 It features jailbreak injection, a customizable terminal UI, and a lightweight design for fast and flexible LLM interaction.
 
 > ⚡ Lightweight. Powerful. Terminal-native.
@@ -92,7 +92,7 @@ You can change the terminal experience to your style:
 ## 👨‍💻 Credits
 
 **Author:** [@kafyasfngl](https://github.com/kafyasfngl)
-**Thanks to:** [@realasfngl](https://github.com/realasfngl)
+**Thanks to:** [@neo](https://github.com/realasfngl)
 **Telegram:** [t.me/xsocietyforums](https://t.me/xsocietyforums)
 
 ---
