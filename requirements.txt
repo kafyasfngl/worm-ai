@@ -1,0 +1,6 @@
+curl_cffi
+uvicorn
+coincurve
+beautifulsoup4
+pydantic
+colorama
