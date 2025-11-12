@@ -59,13 +59,13 @@ python3 main.py
 Run the CLI:
 
 ```bash
-python3 manual.py
+python3 main.py
 ```
 
 Then start chatting:
 
 ```
-[Worm-AI]~[#]> Who created SpaceX?
+> Who created SpaceX?
 ```
 
 ---
